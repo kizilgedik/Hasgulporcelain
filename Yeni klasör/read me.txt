@@ -1,4 +1,4 @@
-Hocam merhabalar, web sitesini tasarlarken şöyle bi şablon düşünerek tasarladım;
+Merhabalar, web sitesini tasarlarken şöyle bi şablon düşünerek tasarladım;
 
 Hasgül porselen isimli firmanın tanıtım websitesi olacak ayrıca site aracılığı ile gönderilen 
 mesajlar panel.php aracılığı ile net bir şekilde görüntülenebilecek.
