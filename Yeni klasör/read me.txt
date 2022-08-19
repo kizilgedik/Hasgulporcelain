@@ -1,0 +1,20 @@
+Hocam merhabalar, web sitesini tasarlarken şöyle bi şablon düşünerek tasarladım;
+
+Hasgül porselen isimli firmanın tanıtım websitesi olacak ayrıca site aracılığı ile gönderilen 
+mesajlar panel.php aracılığı ile net bir şekilde görüntülenebilecek.
+
+Edit ve delete işlemlerinde bazı sıkıntılar ile karşılaştım ve sonuç olarak çalıştıramadım.
+
+
+panelgiris.php ;
+
+
+kullanıcı adı: admin
+şifre: admin1234
+
+
+
+Ömer Kızılgedik
+
+
+omerkizilgedik@gmail.com
